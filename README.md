@@ -2,7 +2,7 @@
 
 This repository contains a PyTorch implementation of the Perceiver architecture for image classification tasks. The Perceiver is a general-purpose architecture that uses cross-attention to process arbitrary input data through a bottleneck of learned latent vectors.
 
-[model](https://github.com/alirezaghl/Perceiver/blob/main/figs/model.png)
+![model](https://github.com/alirezaghl/Perceiver/blob/main/figs/model.png)
 
 ## Configuration
 
